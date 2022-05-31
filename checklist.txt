@@ -1,0 +1,5 @@
+1. creating a file:
+2. opening a file:
+3. saving a document:
+4. print:
+
